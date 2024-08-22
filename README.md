@@ -35,7 +35,7 @@
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://github.com/liyujian3225"><img src="https://img.shields.io/badge/GitHub-Xiaokang2022-blue?logo=github" /></a>
+<a href="https://github.com/liyujian3225"><img src="https://img.shields.io/badge/GitHub-liyujian3225-blue?logo=github" /></a>
 <img src="https://img.shields.io/badge/QQ-604247003-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=liyujian3225&abbreviated=true&color=yellow" />
