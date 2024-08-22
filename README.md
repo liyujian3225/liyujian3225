@@ -20,7 +20,7 @@
 <br/>
 
 <!-- https://github.com/star-history/star-history -->
-<img src="https://api.star-history.com/svg?repos=liyujian3225/liyujian3225,liyujian3225/bahasa_h5,liyujian3225/vuetify-project,liyujian3225/bahasa_pc,&type=Date&theme=dark" />
+<img src="https://api.star-history.com/svg?repos=liyujian3225/liyujian3225,liyujian3225/bahasa_h5,liyujian3225/vuetify-project,liyujian3225/bahasa_pc&type=Date&theme=dark" />
 <br/>
 
 
