@@ -30,7 +30,7 @@
 <br/>
 
 <!-- https://github.com/LelouchFR/skill-icons -->
-<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,matlab,md,sqlite&theme=auto">
+<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,vue,md&theme=auto">
 </p>
 
 <!-- https://github.com/badges/shields -->
