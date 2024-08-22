@@ -23,16 +23,15 @@
 <img src="https://api.star-history.com/svg?repos=liyujian3225/liyujian3225,liyujian3225/bahasa_h5,liyujian3225/vuetify-project,liyujian3225/bahasa_pc&type=Date&theme=dark" />
 <br/>
 
-
-
-
-
-
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Xiaokang2022&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=liyujian3225&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaokang2022&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyujian3225&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
+
+
+
+
 <!-- https://github.com/LelouchFR/skill-icons -->
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,matlab,md,sqlite&theme=auto">
 </p>
